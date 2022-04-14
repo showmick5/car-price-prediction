@@ -39,3 +39,4 @@ algorithms based on existing data.
 Project Heroku deployment link: https://cars-resale-price-prediction.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/91009498/163427323-eb763dd3-da2b-4edd-bfb7-a362207e116e.png)
+Check the reqiurment file.
