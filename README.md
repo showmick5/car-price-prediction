@@ -1,5 +1,3 @@
-# Car-Price-Prediction
-
 #Problem Statement
 
 The manufacturer sets the price of a new car with the government incurring
