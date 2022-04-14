@@ -1,4 +1,4 @@
-# Car-Resale Price Prediction
+# Car-Resale-Price-Prediction
 
 # Project Introduction:-
 Due to the various elements that affect a used automobile's pricing,
@@ -19,3 +19,4 @@ than predicting the price range of a car, forecast the exact pricing of a car.
 In addition, a user interface has been created that collects data. any user's
 input and shows the price of an automobile based on that input to the
 user's input.
+
